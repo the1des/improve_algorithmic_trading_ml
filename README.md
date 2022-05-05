@@ -3,7 +3,7 @@
 The repository was prepared for educational purposes by 1DES.
 
 # Goal
-The goal is to label data based on an algorithmic strategy and correct the labels for machine learning training.  
+The goal is to explore if machine learning can improve algorithmic trading's win rate.  
 
 # Setup
 1. Install JupyterLab:
@@ -15,4 +15,7 @@ The goal is to label data based on an algorithmic strategy and correct the label
 git clone git@github.com:the1des/crypto_data_analysis.git
 ```
 
-3. Explore the code: `labeling_data.ipynb`
+3. Explore the code: 
+`1- labeling_data.ipynb`
+`2- feature_selection.ipynb`
+
