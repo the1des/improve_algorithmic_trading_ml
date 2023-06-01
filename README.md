@@ -28,4 +28,6 @@ git clone git@github.com:the1des/improve_algorithmic_trading_ml.git
 - `2-feature_selection.ipynb`
 - `3-train_long`
 - `3-train_short`
+- `4-prediction`
+- `5-backtesting`
 
